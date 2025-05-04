@@ -9,4 +9,6 @@ Install the required libraries with the following:
 ```
 pip install flask pandas ezdxf plotly
 ```
+# Demo
+![screenshot](screenshots/Screenshot 2025-05-04 160600.png)
 
